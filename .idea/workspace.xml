@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c5b37b5-25ca-4771-90c9-6dc25047d389" name="Changes" comment="DDIT JDBC">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBCPrj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JDBCPrj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kr/or/ddit/basic/T05MemberInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kr/or/ddit/basic/T05MemberInfoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kr/or/ddit/util/JDBCUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kr/or/ddit/util/JDBCUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kr/or/ddit/basic/T05MemberInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kr/or/ddit/basic/T05MemberInfoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kr/or/ddit/util/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kr/or/ddit/util/JDBCUtil.java" afterDir="false" />
-    </list>
+    <list default="true" id="4c5b37b5-25ca-4771-90c9-6dc25047d389" name="Changes" comment="DDIT JDBC" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +68,7 @@
       <workItem from="1654245365246" duration="3000" />
       <workItem from="1654247712508" duration="12000" />
       <workItem from="1654247736275" duration="10000" />
-      <workItem from="1654247766746" duration="295000" />
+      <workItem from="1654247766746" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1651576409346</created>
@@ -121,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654158826443</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DDIT JDBC">
+      <created>1654248112203</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654248112203</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
