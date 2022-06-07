@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c5b37b5-25ca-4771-90c9-6dc25047d389" name="Changes" comment="gitignore">
+    <list default="true" id="4c5b37b5-25ca-4771-90c9-6dc25047d389" name="Changes" comment="Hotel Exam JDBC Test.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,8 @@
       <workItem from="1654247712508" duration="12000" />
       <workItem from="1654247736275" duration="10000" />
       <workItem from="1654247766746" duration="367000" />
-      <workItem from="1654255177091" duration="210000" />
+      <workItem from="1654255177091" duration="630000" />
+      <workItem from="1654417222538" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1651576409346</created>
@@ -129,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654255228597</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="gitignore">
+      <created>1654255418818</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654255418818</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Hotel Exam JDBC Test.">
+      <created>1654255452971</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654255452971</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +156,7 @@
     <MESSAGE value="Changes" />
     <MESSAGE value="DDIT JDBC" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="Hotel Exam JDBC Test." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hotel Exam JDBC Test." />
   </component>
 </project>
